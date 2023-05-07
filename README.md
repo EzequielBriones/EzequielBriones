@@ -7,7 +7,7 @@ Web Developer
 I've started with front-end development at the beginning of 2021, learned the basics of it, HTML, CSS, JS, then moved on to learn Jquery, then basic UX/UI things, and ended the year learning NodeJs, SQL a bit of React, and two full-stack projects fully functioning and deployed. I'm currently looking for my first job as a web developer, and to keep practicing and learning more and more.
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [this link](http://ezb-portfolio.netlify.app)
+* 🖥️  See my portfolio at [this link](https://ezequielbriones.netlify.app/)
 * ✉️  You can contact me at [ezebriones01@gmail.com](mailto:ezebriones01@gmail.com)
 * 🧠  I'm learning React, UX/UI.
 * 🤝  I'm open to collaborating on any project that would have me!
